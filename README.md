@@ -1,4 +1,3 @@
-# teaching-methods-analysis
 # Statistical Analysis: Evaluation of School Teaching Methods
 
 ## Statistical Techniques & Methodology
