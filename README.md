@@ -13,11 +13,17 @@ To evaluate the effectiveness of the teaching methods, this project followed a s
 
 ### Hypotesis Setup:
 
-* **Null Hypotesis:** There is no significant difference in the average grades between the teaching methods.
-* **Alternative Hypotesis:** There is a statistically significant difference in the average grades between the teaching methods.
+* **Null Hypothesis:** There is no significant difference in the average grades between the teaching methods.
+* **Alternative Hypothesis:** There is a statistically significant difference in the average grades between the teaching methods.
 
 ## Technologies Used
 * **Python** (Core language)
 * **NumPy** (Array manipulation and descriptive statistics)
 * **SciPy** / **scipy.stats** (Statistical testing and T-Test variables)
 * **Matplotlib** (Data visualization and statistical plotting)
+
+## Key Insights and Conclusions 
+After analysing the dataset and running the statistical pipeline, here are the main findings:
+
+* **Descritptive Analysis:** The average grade for Teaching Method A was higher than the average grade for Teaching Method B.
+* **Statistical Significance:** By plotting and comparing t-calculated against t-critical on the distibution graph, we visually and mathematically determined whether the performance gap between the tow methods is large enough to reject the null hypothesis.
